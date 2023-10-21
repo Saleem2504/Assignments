@@ -1,0 +1,14 @@
+C:\Users\salee\desktop\Assignments\chapter 7\bin\Debug\net7.0\chapter 7.exe
+C:\Users\salee\desktop\Assignments\chapter 7\bin\Debug\net7.0\chapter 7.deps.json
+C:\Users\salee\desktop\Assignments\chapter 7\bin\Debug\net7.0\chapter 7.runtimeconfig.json
+C:\Users\salee\desktop\Assignments\chapter 7\bin\Debug\net7.0\chapter 7.dll
+C:\Users\salee\desktop\Assignments\chapter 7\bin\Debug\net7.0\chapter 7.pdb
+C:\Users\salee\desktop\Assignments\chapter 7\obj\Debug\net7.0\chapter 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salee\desktop\Assignments\chapter 7\obj\Debug\net7.0\chapter 7.AssemblyInfoInputs.cache
+C:\Users\salee\desktop\Assignments\chapter 7\obj\Debug\net7.0\chapter 7.AssemblyInfo.cs
+C:\Users\salee\desktop\Assignments\chapter 7\obj\Debug\net7.0\chapter 7.csproj.CoreCompileInputs.cache
+C:\Users\salee\desktop\Assignments\chapter 7\obj\Debug\net7.0\chapter 7.dll
+C:\Users\salee\desktop\Assignments\chapter 7\obj\Debug\net7.0\refint\chapter 7.dll
+C:\Users\salee\desktop\Assignments\chapter 7\obj\Debug\net7.0\chapter 7.pdb
+C:\Users\salee\desktop\Assignments\chapter 7\obj\Debug\net7.0\chapter 7.genruntimeconfig.cache
+C:\Users\salee\desktop\Assignments\chapter 7\obj\Debug\net7.0\ref\chapter 7.dll
